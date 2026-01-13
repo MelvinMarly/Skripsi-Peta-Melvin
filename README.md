@@ -1,2 +1,2 @@
 # Skripsi-Peta-Melvin
-Perbandingan Cakupan Layanan Indomaret dan Alfamart Menggunakan Buffer Analysis di Kecamatan Penjaringan Jakarta Utara
+PERBANDINGAN CAKUPAN LAYANAN INDOMARET DAN ALFAMART MENGGUNAKAN BUFFER ANALYSIS DI QUANTUM GIS (STUDI KASUS KECAMATAN PENJARINGAN JAKARTA UTARA)
